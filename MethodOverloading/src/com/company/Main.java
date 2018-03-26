@@ -9,7 +9,7 @@ public class Main {
 //        calculateScore(300);
 //        calculateScore();
         System.out.println(calcFeetAndInchesToCentimeters(2,6) + "cm");
-        System.out.println(calcFeetAndInchesToCentimeters(30) + "cm");
+        System.out.println(calcFeetAndInchesToCentimeters(-10) + "cm");
     }
     public static int calculateScore (String playerName, int score) {
         System.out.println("Player " + playerName + " scored " + score + " points.");

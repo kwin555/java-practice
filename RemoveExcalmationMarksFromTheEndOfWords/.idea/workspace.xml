@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="352914cd-ad32-424a-80b4-616567a48cf5" name="Default" comment="" />
+    <list default="true" id="9ccd9163-ff26-4163-944d-a62bbf0d6384" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,8 +15,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/codewarskata/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="14" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -41,9 +41,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -62,7 +62,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.codewarskata.Main" />
-      <module name="StringEndsWith" />
+      <module name="RemoveExcalmationMarksFromTheEndOfWords" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -82,42 +82,37 @@
       <envs />
       <method />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="352914cd-ad32-424a-80b4-616567a48cf5" name="Default" comment="" />
-      <created>1523988451989</created>
+      <changelist id="9ccd9163-ff26-4163-944d-a62bbf0d6384" name="Default" comment="" />
+      <created>1524087159276</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1523988451989</updated>
+      <updated>1524087159276</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1286" y="23" width="1272" height="1352" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32942098" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5031348" side_tool="true" weight="0.32933578" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.4968652" weight="0.32707354" />
+      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.4968652" weight="0.32749078" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info id="Capture Tool" order="0" />
       <window_info id="Designer" order="1" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2028302" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.1918239" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -130,27 +125,17 @@
       <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Messages" order="0" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="1468" column="32" selection-start-line="1468" selection-start-column="32" selection-end-line="1468" selection-end-column="32" />
-          <folding>
-            <element signature="e#58919#58920#0" expanded="true" />
-            <element signature="e#58988#58989#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codewarskata/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="14" selection-end-column="5" />
         </state>
       </provider>
     </entry>
